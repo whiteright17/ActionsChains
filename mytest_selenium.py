@@ -33,3 +33,5 @@ class MyTestSelenium:
 
     def close(self):
         self.driver.quit()
+
+
